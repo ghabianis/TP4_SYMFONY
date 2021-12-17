@@ -1,0 +1,3 @@
+index:
+    path: lucky/{max<\d+>}
+    controller: App\Controller\LuckyController::number
